@@ -1,9 +1,8 @@
 # The main entry point of your workflow.
 # After configuring, running snakemake -n in a clone of this repository should successfully execute a dry-run of the workflow.
+from os.path import join
 
-
-configfile: "config.yaml"
-
+configfile: "config.json"
 
 rule all:
     input:

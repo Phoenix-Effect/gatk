@@ -1,0 +1,14 @@
+{
+    "directory":{
+        "XX_ref_with_viral_genomes": "path/to/viral",
+        "XX_withoutYpar_ref_with_viral_genomes": "path/to/viral",
+        "fastq_files": "path/to/fasq",
+        "sam_alignment_files": "/path/to/sam",
+        "bam_alignment_files": "path/to/bam",
+        "sorted_bam_alignment_files": "path/to/sorted"
+    },
+    "_comment": "The rules below correspond to 1_alignment.smk",
+    "1_alignment": {
+       
+    }
+}

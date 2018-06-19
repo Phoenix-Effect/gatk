@@ -5,7 +5,7 @@
 !scripts/common/*
 scripts/.snakemake*
 !Snakefile
-!config.yaml
+!config.json
 !samples.tsv
 !resources
 !resources/*
