@@ -8,6 +8,7 @@ Insert your code into the respective folders, i.e. `scripts`, `rules`, and `envs
 
 ## Authors
 
+* Heini Natri (@heinin)
 * Suhail Ghafoor (@phoenix-effect)
 
 ## Usage
