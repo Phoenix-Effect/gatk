@@ -1,0 +1,15 @@
+# conda environments needed for the workflow should be stored here.
+name: gatk-env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - cyclus
+dependencies:
+  - python=3.5.1
+  - samtools=1.7
+  - snakemake=3.11.0
+  - pyyaml=3.11
+  - varscan=2.4.3
+  - picard=2.18.1
+  - gatk4=4.0.3.0
